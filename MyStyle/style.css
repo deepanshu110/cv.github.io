@@ -125,6 +125,11 @@ hr {
   padding-top: 10px;
 }
 
+.bottom-container {
+  color: white;
+  background-color: #FEB789;
+}
+
 .btn {
   background: #ebb032;
   background-image: -webkit-linear-gradient(top, #ebb032, #9c771f);
@@ -150,9 +155,4 @@ hr {
   background-image: -o-linear-gradient(top, #f0de98, #ebde8d);
   background-image: linear-gradient(to bottom, #f0de98, #ebde8d);
   text-decoration: none;
-}
-
-.bottom-container {
-  color: white;
-  background-color: #FEB789;
 }
